@@ -25,8 +25,8 @@
 
 <h3 align="left">Contact Me:</h3>
 
-- 📧 ozan@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/ozan-xxx) _(to be updated)_
+- 📧 ozan@.com  
+- 💼 [LinkedIn](https://linkedin.com/in/ozanakbay)
 
 ---
 
