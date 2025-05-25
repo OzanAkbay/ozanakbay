@@ -25,7 +25,7 @@
 
 <h3 align="left">Contact Me:</h3>
 <a href="https://linkedin.com/in/ozanakbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ozanakbay" height="30" width="40" /></a>
----
+
 
 <h3 align="left">Tools & Platforms I'm exploring:</h3>
 
