@@ -25,8 +25,7 @@
 
 <h3 align="left">Contact Me:</h3>
 
-- 📧 ozan@.com  
-- 💼 [LinkedIn](https://linkedin.com/in/ozanakbay)
+- - 📫 Reach me via LinkedIn(https://linkedin.com/in/ozanakbay)
 
 ---
 
